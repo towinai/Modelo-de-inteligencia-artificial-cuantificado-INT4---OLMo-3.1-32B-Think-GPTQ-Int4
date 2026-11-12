@@ -9,7 +9,7 @@
 [![LiteLLM](https://img.shields.io/badge/LiteLLM-main--latest-orange.svg)](https://github.com/BerriAI/litellm)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791.svg)](https://www.postgresql.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![huggingFace](https://huggingface.co/TOWIN-AI/OLMo-3.1-32B-Think-GPTQ-Int4/tree/main) Modelo completo con safetensor
+
 ---
 
 ## 🇪🇸 Español
